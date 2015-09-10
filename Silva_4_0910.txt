@@ -1,0 +1,2 @@
+We created a remote to control our directory to github to type journals and such.
+We will have to get in the corect dorectory and name the journal before creating and writing to it.

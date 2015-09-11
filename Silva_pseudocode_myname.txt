@@ -1,0 +1,26 @@
+Begin:
+
+Letter1{
+	Draw forward 4 spaces
+	return to middle of line
+	turn 90 degrees left
+	draw down 4 spaces
+	draw a semi-circle to the right
+}
+Letter2{
+	move right of your drawing
+	draw ellipse 2 spaces in diameter
+}
+Letter3{
+	move right of ellipse
+	draw down 5 spaces
+	go back up half way
+	draw semi-circle to right
+Letter4{
+	move right of drawing
+	draw down 3 spaces
+	go back up half way
+	draw semi-circle to right
+}
+
+End:

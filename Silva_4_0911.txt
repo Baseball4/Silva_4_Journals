@@ -1,0 +1,2 @@
+Pseudocode is fake code listening all the steps needed to later put in to reak code.
+It is good for plotting ehat you wanna do with a program or making an over all layout.

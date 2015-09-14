@@ -1,0 +1,2 @@
+	The importance of organizing your thought would be planning code ahead of time so you can more easily identify where a problem
+could be occuring. This can also help you write the code a lot faster.

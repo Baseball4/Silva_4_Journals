@@ -1,0 +1,4 @@
+I cant check my parent portal. I'm not even coneced to my moms account and it is not on my moms parent
+portal acount.
+So you dont have any problems with calling or using that file later.
+"cp" is what takes a copy of your files directory.

@@ -1,0 +1,31 @@
+Copyright - legal rights given to a creater to print, publish, perform, film, or record literacy, or musical material, and to
+authorize others to do the same.
+
+Copyleft - making that work free now and everytime its modified and or extentions are made.
+
+Fair Use - doctrine that states copyright material can, under certain circumstances, be quoted verbatim for purposes
+such as criticism, news reporting, teaching, and reasearch with no need for permission.
+
+Free Speech - the right to speak without censorship or restraint by the government.
+
+Free Software - gives the user the freedom to share. study and modify the software.
+
+Freeware - programming offered at no cost.
+
+Public Domain - available to the public as a whole and not subject to copyright.
+
+File-sharing - sharing a document/file over the internet to others.
+
+Piracy - unauthorized use or reproduction of someones work.
+
+Plagiarism - taking someones ideas and saing they are your own.
+
+Infringment - breaking a law (copyright law).
+
+Proprietary - an owner or ownership.
+
+Open Source - software made freely availible and can be redistributed and modified.
+
+GNU GPL License - derived works can only be distributed under the same license terms.
+
+MIT License - 

@@ -1,0 +1,9 @@
+MIT License - free software liscense permiting reuse within propietary software if
+all copies include a copy of the MIT License as well.
+
+Apache License - free software license within Apache Software Foundation.
+
+EULA - legal contract between software developer or vendor and the use of the software.
+
+Creative Commons - public copywrite license enabling free distrabution of an
+otherwise copywriten work.

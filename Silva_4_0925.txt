@@ -1,0 +1,20 @@
+Paid License - license requiring pay.
+
+Shareware - free software distributed informally, after evaluation may request a fee,
+to continue.
+
+Trialware - free software for a period of time till fee is requested.
+
+Ad-ware - program used but ad's added for purposes of preventing payment.
+
+Crippleware - using only some of the program.
+
+Freemium - pay to finish/go longer/win.
+
+FreeWare (vs Free-OpenSource) - 
+
+Richard Stallman - 
+
+Lawrence Lessig - 
+
+Eben Moglen - 

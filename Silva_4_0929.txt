@@ -1,0 +1,2 @@
+	A Method is a small program inside of a program. They are good for things like
+multiple tasks in a single program.
